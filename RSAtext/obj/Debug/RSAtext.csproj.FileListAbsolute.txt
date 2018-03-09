@@ -1,0 +1,7 @@
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\RSAtext\RSAtext\bin\Debug\RSAtext.exe.config
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\RSAtext\RSAtext\bin\Debug\RSAtext.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\RSAtext\RSAtext\bin\Debug\RSAtext.pdb
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\RSAtext\RSAtext\obj\Debug\RSAtext.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\RSAtext\RSAtext\obj\Debug\RSAtext.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\RSAtext\RSAtext\obj\Debug\RSAtext.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\RSAtext\RSAtext\obj\Debug\RSAtext.pdb
